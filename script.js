@@ -604,7 +604,7 @@ function openNotepad() {
     // fileManager.showInfo('Notepad', 'Notepad would open here in a full implementation.');
     fileManager.showInfo(
         "MyPhoto.jpg",
-        '<img src="images/alif.jpg" style="max-width:100%;height:auto;">'
+        '<img src="images/my.jpg" style="max-width:100%;height:auto;">'
     );
 }
 
